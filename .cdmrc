@@ -1,0 +1,5 @@
+tabs: ['pages/index.js','README.md']
+live-reload-browser: false
+terminal-one: |
+    yarn install
+    yarn dev
