@@ -1,5 +1,5 @@
 # Codedamn Projects - Galaxy Library
-![main image](https://raw.githubusercontent.com/codedamn-projects/discord-ui-clone/master/designs/cover-image.png)
+![main image](https://github.com/Abbhiishek/galaxy-library/blob/main/public/main.png?raw=true)
 
 ## Hello developer!
 
@@ -30,26 +30,28 @@ These sections design can be seen at the `/designs` folder. Each of the design n
 The Particular  page should have the URL of `/<particular-section>`
 For example, the planet section should have the URL of `/planet` which would serve another page with the planet data.
 
-![section-overview]()
+![section-overview](https://github.com/Abbhiishek/galaxy-library/blob/main/public/sections.png?raw=true)
 
 
 ### Planet Page
 
 The planet page should be at URL `/planet`
 
-![planet]()
+![planet](https://github.com/Abbhiishek/galaxy-library/blob/main/public/planet.png?raw=true)
 
-### People Page
-
-The planet page should be at URL `/people`
-
-![people]()
 
 ### Starships Page
 
 The planet page should be at URL `/starships`
 
-![starship]()
+![starship](https://github.com/Abbhiishek/galaxy-library/blob/main/public/starship.png?raw=true)
+
+
+### Vechicle Page
+
+The planet page should be at URL `/starships`
+
+![vechicle](https://github.com/Abbhiishek/galaxy-library/blob/main/public/vechicle.png?raw=true)
 
 
 ## Instructions
